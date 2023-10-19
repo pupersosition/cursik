@@ -50,6 +50,11 @@ chmod +x cursik
 ./cursik
 ```
 
+## Compatibility
+
+This script and the executable are designed to be executed on Unix-based systems
+(MacOS, Linux). Windows is not supported at the moment.
+
 ## Contributions
 
 Contributions, issues, and feature requests are welcome. For those looking to contribute, please check the issues page.
@@ -60,5 +65,5 @@ This script is distributed under the MIT License. See `LICENSE` for more informa
 
 ## Contact
 
-Your Name - nikita.vostrosablin@gmail.com
+Email: nikita.vostrosablin@gmail.com
 Project Link: https://github.com/pupersosition/cursik
