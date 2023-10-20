@@ -34,7 +34,9 @@ go run main.go
 ```
 
 4. Upon execution, the program requests the user to specify the duration (in minutes) for the cursor movement.
-5. After inputting a valid duration, you can switch to any window or screen. The cursor will move in circles, preventing your status from changing to "away" or "offline." To stop the program, return to the terminal and press 'Enter'.
+5. After inputting a valid duration, it is not advised to switch to other windows except terminal as it will be hard to 
+get back. In case you accidentially switched to some other program, you can call the Spotlight Search (on MacOS) and type "Terminal".
+The cursor will move in circles, preventing your status from changing to "away" or "offline." To stop the program, return to the terminal and press 'Enter'.
 
 ### Using executable
 
